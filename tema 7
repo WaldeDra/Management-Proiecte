@@ -1,0 +1,6 @@
+git config user.name<WaldeDra>
+git clone<Management-Proiecte>
+git remote add <Management><https://github.com/WaldeDra/Management-Proiecte.git>
+git reset
+git add <Knighty|Salut>
+git remote
